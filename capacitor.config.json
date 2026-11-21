@@ -1,0 +1,6 @@
+{
+  "appId": "com.notaflow.music",
+  "appName": "NotaFlow",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "notaflow-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NotaFlow Deluxe Android wrapper project",
+  "scripts": {
+    "build": "echo 'NotaFlow is a static web app; no build step required.'"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
