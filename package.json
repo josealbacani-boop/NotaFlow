@@ -1,3 +1,4 @@
+
 {
   "name": "notaflow-android",
   "version": "1.0.0",
@@ -7,6 +8,7 @@
     "build": "echo 'NotaFlow is a static web app; no build step required.'"
   },
   "dependencies": {
+    "@capacitor/android": "^7.4.3",
     "@capacitor/core": "^7.4.3"
   },
   "devDependencies": {
